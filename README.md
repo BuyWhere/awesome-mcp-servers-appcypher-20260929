@@ -485,7 +485,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://www.mercadolibre.com.ar/favicon.ico" height="14" alt="MercadoLibre Logo" /> [Mercado Libre](https://mcp.mercadolibre.com/) - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
 - <img src="https://shopsavvy.com/favicon.ico" height="14" alt="ShopSavvy Logo" /> **[ShopSavvy](https://github.com/shopsavvy/shopsavvy-mcp-server)**<sup><sup>⭐</sup></sup> - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
-- [BuyWhere](https://api.buywhere.ai/mcp) - Shopping and product discovery MCP server for AI assistants (Claude, Cursor, ChatGPT). Query real-time product catalogs, compare prices, and find merchant listings.
+- <img src="https://buywhere.ai/favicon.ico" height="14" alt="BuyWhere Logo" /> [BuyWhere](https://github.com/BuyWhere/buywhere-mcp) - Agent-native product catalog MCP. Search 300M+ products across 150K+ merchants in 9 markets; remote endpoint https://api.buywhere.ai/mcp
 
 <br />
 
@@ -531,4 +531,3 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
-
